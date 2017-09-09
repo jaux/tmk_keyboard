@@ -41,7 +41,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 /* Set LED brightness 0-255.
  * This have no effect if sleep LED is enabled. */
-#define LED_BRIGHTNESS  250
+#define LED_BRIGHTNESS  0
 
 /* key combination for command */
 #define IS_COMMAND() ( \
